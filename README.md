@@ -9,7 +9,7 @@ Clone og kompiler med din favoritt [TeX-distribusjon](https://www.latex-project.
 ## Logo
 
 Logo for ditt fakultet?
-[UiB profilmanual](http://kapd.h.uib.no/profilmanual/99LastNed/99a_lastned.html)  
+[UiB profilmanual](https://manual.uib.no/profilmanual/profilelementer/)  
 Endre til `canvas.png` hvis du ønsker kun logo uten fakultet.
 
 ## Lisens
