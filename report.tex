@@ -39,9 +39,14 @@
 \appendix
 \titleformat{\chapter}[display]
   {\normalfont\large\bfseries}% <- font for label "Appendix A", default \huge
+  {\thechapter}
+  {20pt}
+  {\large}% <- font for title, default \Huge
+\include{generators/appendix-a}
+\titleformat{\chapter}[display]
+  {\normalfont\large\bfseries}% <- font for label "Appendix B", default \huge
   {\chaptertitlename\ \thechapter}
   {20pt}
   {\large}% <- font for title, default \Huge
-
-\include{generators/appendix-a}
+\include{generators/appendix-ai-use}
 \end{document}
